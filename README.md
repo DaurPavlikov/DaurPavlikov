@@ -1,5 +1,5 @@
 ### Hello there! :handshake:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaurPavlikov)](https://github.com/DaurPavlikov/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaurPavlikov&hide_title=true)](https://github.com/DaurPavlikov/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaurPavlikov)](https://github.com/DaurPavlikov/github-readme-stats)
 
 <div align="center">

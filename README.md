@@ -1,6 +1,5 @@
 ### Hello there! :handshake:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaurPavlikov&hide_title=true)](https://github.com/DaurPavlikov/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaurPavlikov)](https://github.com/DaurPavlikov/github-readme-stats)
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;

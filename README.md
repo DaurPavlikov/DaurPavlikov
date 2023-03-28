@@ -1,6 +1,13 @@
-### Hello there! :handshake:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaurPavlikov&show_icons=true&hide_title=true)](https://github.com/DaurPavlikov/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaurPavlikov)](https://github.com/DaurPavlikov/github-readme-stats)
+<div align="center">
+  <h1>Добро пожаловать!</h1>
+  <h2>Welcome!</h2>
+
+
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaurPavlikov&show_icons=true&hide_title=true)](https://github.com/DaurPavlikov/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaurPavlikov&show_icons=true&layout=compact)](https://github.com/DaurPavlikov/github-readme-stats)
+
+</div>
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;

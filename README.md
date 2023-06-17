@@ -2,8 +2,6 @@
   <h1>Добро пожаловать!</h1>
   <h2>Welcome!</h2>
 
-
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaurPavlikov&show_icons=true&hide_title=true)](https://github.com/DaurPavlikov/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaurPavlikov&show_icons=true&layout=compact)](https://github.com/DaurPavlikov/github-readme-stats)
 
 </div>
@@ -21,6 +19,7 @@
 </div>
 
 <!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaurPavlikov&show_icons=true&hide_title=true)](https://github.com/DaurPavlikov/github-readme-stats)
 **DaurPavlikov/DaurPavlikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
